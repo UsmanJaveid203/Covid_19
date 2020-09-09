@@ -1,0 +1,16 @@
+.tableFixHead{ 
+    overflow-y: auto; 
+    height: 400px; 
+}
+
+.tableFixHead_thead_th { 
+    position: sticky; 
+    top: 0;  
+    background: black;
+    color: white;
+}
+
+.tablee  { 
+    border-collapse: collapse; 
+    /* width: 100%;  */
+}
