@@ -5,7 +5,7 @@ export default function Countries(props) {
     return (
         <>
             <div className="container mt-5">
-                <h3 style={{ textAlign: 'center' }}>Reported Cases and Deaths by Country, Territory</h3>
+                <h2 style={{ textAlign: 'center' }}>Reported Cases and Deaths by Country, Territory</h2>
                 <div className={Styling.tableFixHead}>
                     <table  className="table table-borderless table-striped">
                         <thead>
